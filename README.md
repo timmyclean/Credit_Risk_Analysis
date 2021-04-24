@@ -9,7 +9,7 @@
   * Balanced Accuracy Score 0.6347321432168598
   * Imbalanced Classification Report
   ![image](https://user-images.githubusercontent.com/76462602/115965998-96dfe680-a4f9-11eb-9df0-f61cb65a0418.png)
-### Smote Oversampling
+### SMOTE Oversampling
   * Balanced Accuracy Score 0.6473010865755344
   * Imbalanced Classification Report
   ![image](https://user-images.githubusercontent.com/76462602/115966208-98f67500-a4fa-11eb-8d73-330613e7cceb.png)
@@ -31,4 +31,8 @@
   ![image](https://user-images.githubusercontent.com/76462602/115966492-c42d9400-a4fb-11eb-82f4-9ba6eea3017d.png)
   
 ## Summary
-* 
+### Oversampling
+ * Looking at the results for Naive Random and SMOTE and based on class materials the models are not effective in the prediction of bad loans. This is due to the precision score of 0.01 and Recall of 0.59. While SMOTE offered similar results of a precision score of 0.01 and Recall of 0.67. Along with this both with low accuracy scores.
+### Undersampling
+* Did not produce desired results as well as seen with scores
+
