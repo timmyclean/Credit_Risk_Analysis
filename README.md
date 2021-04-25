@@ -33,6 +33,8 @@
 ## Summary
 ### Oversampling
  * Looking at the results for Naive Random and SMOTE and based on class materials the models are not effective in the prediction of bad loans. This is due to the precision score of 0.01 and Recall of 0.59. While SMOTE offered similar results of a precision score of 0.01 and Recall of 0.67. Along with this both with low accuracy scores.
-### Undersampling
-* Did not produce desired results as well as seen with scores
+### Undersampling/Ensemble
+* Did not produce desired results as well as seen with scores.
+
+* We have found these models would not be ideal in predicitng credit risk for a large company such as this.
 
